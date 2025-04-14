@@ -112,8 +112,9 @@ This dictionary is written to and read from `database.txt`.
 ## Author
 
 Developed by Muthavarapu Venkata Akhil 
+---
 Additional suggestions by Sai Vardhan Sir
 ```
 
----
+
 
